@@ -34,7 +34,7 @@ func main() {
 }
 
 func exibeIntroducao() {
-	nome := "Dev"
+	nome := "Usuário"
 	nome2 := "Renan Moreira"
 	var versao float32 = 1.1
 	fmt.Println("Olá, sr.", nome)
